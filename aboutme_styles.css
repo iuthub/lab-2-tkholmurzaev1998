@@ -1,0 +1,34 @@
+.headerclass{
+	background-color: blue;
+}
+
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    background-color: rgb(220,220,220);
+    font-size: 34px;
+    font-weight: 12px;
+    font-family: Calibri;
+}
+
+#mov{
+    padding: 0 80px 0 0;
+    color: red
+}
+.movies{
+    display: flex;
+    list-style-type: none;
+}
+ul {
+  list-style-type: none;
+}
+.bluetext{
+	text-decoration-style: bold;
+	color:blue;
+}
+.ulclass{
+	font-size: bold;
+	font-size: 32px;
+
+}
